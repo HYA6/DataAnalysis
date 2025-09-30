@@ -14,3 +14,7 @@
 - 데이터 수집의 이해와 데이터 유형
 - 데이터 수집 방법 (파일 기반, API, 웹 스크래핑)
 - pandas의 DataFrame 이해 및 활용
+
+## [Capter5] 데이터의 저장
+- 데이터 저장의 이해 (파일-csv, json / 데이터베이스)
+- pandas의 DataFrame 이해 및 활용
