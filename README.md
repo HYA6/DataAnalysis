@@ -18,3 +18,7 @@
 ## [Capter5] 데이터의 저장
 - 데이터 저장의 이해 (파일-csv, json / 데이터베이스)
 - pandas의 DataFrame 이해 및 활용
+
+## [Capter6]  데이터 전처리 1
+- 데이터 전처리의 이해 (과정: 측정-정리-통합-축소-변환 반복)
+- pandas를 이용한 데이터 측정 (describe(), rename(), loc(), iloc(), set_index(), sort_values(), sort_index(), info())
